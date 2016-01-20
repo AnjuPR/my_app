@@ -1,2 +1,2 @@
 # my_app
-for testing ourpose
+for testing pourpose
